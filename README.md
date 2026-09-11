@@ -15,3 +15,7 @@ Mein Lieblingsfach ist: KI
 
 ## Mein Ziel
 Ich möchte lernen wie man GitHub benutzt und wie man gemeinsam Projekte bearbeitet
+
+## Meine Änderung
+
+Diese Änderung habe ich in meinem eigenen Branch erstellt
