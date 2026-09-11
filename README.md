@@ -19,3 +19,4 @@ Ich möchte lernen wie man GitHub benutzt und wie man gemeinsam Projekte bearbei
 ## Meine Änderung
 
 Diese Änderung habe ich in meinem eigenen Branch erstellt
+Ich teste gerade Branches auf GitHub
