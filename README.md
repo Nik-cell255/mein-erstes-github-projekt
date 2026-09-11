@@ -9,3 +9,9 @@ Klasse: 24-it3
 - GitHub
 - Dateien bearbeiten
 - zusammenarbeiten
+
+## Mein Lieblingsfach
+Mein Lieblingsfach ist: KI
+
+## Mein Ziel
+Ich möchte lernen wie man GitHub benutzt und wie man gemeinsam Projekte bearbeitet
