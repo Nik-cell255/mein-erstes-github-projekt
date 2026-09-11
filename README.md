@@ -4,7 +4,7 @@ Moin
 Name: Nik  
 
 Klasse: 24-it3
-## Was isch lernen will
+## Was ich lernen will
 
 - GitHub
 - Dateien bearbeiten
